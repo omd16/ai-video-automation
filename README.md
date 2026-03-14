@@ -1,6 +1,6 @@
 # Automated AI Video Generator
 
-Automated AI Video Generator is a Python-based tool for generating long-form videos from text stories. It automates the process of converting written narratives into engaging videos with narration, subtitles, background footage, and thumbnails. Perfect for creating content like Reddit story videos or similar narrative formats.
+Automated AI Video Generator is a Python-based tool for generating long-form videos from text stories. It automates the process of converting written narratives into engaging videos with narration, subtitles, background footage, and thumbnails. Perfect for creating content like Kids story videos or similar narrative formats.
 
 ## Features
 
@@ -17,7 +17,7 @@ Automated AI Video Generator is a Python-based tool for generating long-form vid
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd Reddtale
+   cd <project>
    ```
 
 2. Install dependencies:
