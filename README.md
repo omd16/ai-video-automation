@@ -108,4 +108,3 @@ Contributions are welcome! Please feel free to submit issues, feature requests, 
 ## License
 
 [Add your license here]</content>
-<parameter name="filePath">c:\Users\Admin\prj\py\Reddtale\README.md
