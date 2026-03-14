@@ -1,0 +1,27 @@
+working_dir: ./working-dir
+openai:
+  api_key: ${OPENAI_API_KEY}
+video:
+  dir: ./zvideos
+  fps: 24
+  size: 1920x1080
+
+audio:
+  back:
+    dir: ./zaudios
+    volume: 0.25
+  main:
+    volume: 3
+    voice: echo
+
+subtitle:
+  font: default
+  font_size: 32
+  color: white
+  highlight_color: cyan
+  preset: superfast
+  position: center
+
+thumb:
+  dir: ./zimages
+  name: template.png
